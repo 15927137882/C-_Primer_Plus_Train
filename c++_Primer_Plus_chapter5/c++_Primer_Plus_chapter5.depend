@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509761859 source:e:\c++_primer_plus_chapter5\main.cpp
+	<iostream>
+	<array>
+	<string>
+	<cstring>
+
