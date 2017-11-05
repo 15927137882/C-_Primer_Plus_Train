@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509889635 source:e:\c++_primer_plus_chapter6\main.cpp
+	<iostream>
+	<cctype>
+	<string>
+	<fstream>
+	<cstdlib>
+
