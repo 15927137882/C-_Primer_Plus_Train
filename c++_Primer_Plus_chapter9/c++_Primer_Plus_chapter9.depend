@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1510224669 source:c:\users\27336\desktop\c++_primer_plus_chapter9\golf.cpp
+	"c++_Primer_Plus_chapter8.h"
+	<cstring>
+	<iostream>
+
+1510223917 c:\users\27336\desktop\c++_primer_plus_chapter9\c++_primer_plus_chapter8.h
+
+1510223939 source:c:\users\27336\desktop\c++_primer_plus_chapter9\main.cpp
+	<iostream>
+	"c++_Primer_Plus_chapter8.h"
+
+1510238791 source:e:\c++_primer_plus_chapter9\golf.cpp
+	"c++_Primer_Plus_chapter8.h"
+	<cstring>
+	<iostream>
+
+1510236925 e:\c++_primer_plus_chapter9\c++_primer_plus_chapter8.h
+	<string>
+
+1510238695 source:e:\c++_primer_plus_chapter9\main.cpp
+	<iostream>
+	<string>
+	<new>
+	<cstring>
+	"c++_Primer_Plus_chapter8.h"
+
