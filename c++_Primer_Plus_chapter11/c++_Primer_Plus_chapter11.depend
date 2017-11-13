@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1510540444 source:e:\c++_primer_plus_chapter11\main.cpp
+	"c++_Primer_Plus_chapter11.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<limits>
+
+1510540806 source:e:\c++_primer_plus_chapter11\c_primer_plus_chapter_h_included.cpp
+	"c++_Primer_Plus_chapter11.h"
+	<cmath>
+
+1510540791 e:\c++_primer_plus_chapter11\c++_primer_plus_chapter11.h
+	<iostream>
+
