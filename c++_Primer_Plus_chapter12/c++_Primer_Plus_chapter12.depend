@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1510720915 source:e:\c++_primer_plus_chapter12\c++_primer_plus_chapter12.cpp
+	"c++_Primer_Plus_chapter12.h"
+	<cstring>
+	<iostream>
+	<cctype>
+	<cstdlib>
+
+1510712850 e:\c++_primer_plus_chapter12\c++_primer_plus_chapter12.h
+	<iostream>
+
+1510728458 source:e:\c++_primer_plus_chapter12\main.cpp
+	<iostream>
+	"c++_Primer_Plus_chapter12.h"
+	<cstring>
+	<cstdlib>
+	<ctime>
+
