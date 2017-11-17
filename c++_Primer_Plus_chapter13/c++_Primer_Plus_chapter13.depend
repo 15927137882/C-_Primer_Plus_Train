@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510926876 source:e:\c++_primer_plus_chapter13\main.cpp
+	<iostream>
+	"c++_Primer_Plus_chapter13.h"
+
+1510927013 source:e:\c++_primer_plus_chapter13\chapter13_class_implement.cpp
+	"c++_Primer_Plus_chapter13.h"
+	<cstring>
+	<iostream>
+
+1510927192 e:\c++_primer_plus_chapter13\c++_primer_plus_chapter13.h
+	<iostream>
+
