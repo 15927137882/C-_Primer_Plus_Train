@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1511313828 source:e:\c++_primer_plus_chapter14\main.cpp
+	<iostream>
+	<cstring>
+	"c++_Primer_Plus_chapter14.h"
+
+1511267993 source:e:\c++_primer_plus_chapter14\c++_primer_plus_chapter14.cpp
+	"c++_Primer_Plus_chapter14.h"
+	<iostream>
+
+1511313877 e:\c++_primer_plus_chapter14\c++_primer_plus_chapter14.h
+	<string>
+	<valarray>
+
